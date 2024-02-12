@@ -1,0 +1,84 @@
+
+
+body {
+    background-color: yellow;
+    
+  }
+  
+  header {
+    background-color: #333333;
+    padding: 30px;
+  }
+  
+  h1 {
+    font-family: 'Protest Strike', sans-serif;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    width: 25%;
+    height: 30px;
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  
+  nav li:hover {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  main {
+    padding: 30px;
+  }
+  
+  section {
+    background-color:yellow;
+    padding: 30px;
+  }
+  
+  h2 {
+    font-family: 'Protest Riot', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  p {
+    font-family: 'Protest Riot', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #333333;
+    padding: 30px;
+  }
+  
+  p {
+    font-family: 'Protest Riot', sans-serif;
+font-family: 'Protest Strike', sans-serif;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  image{
+    position: center;
+    width: 200;
+    height: 200;
+  }
